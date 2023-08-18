@@ -1,0 +1,5 @@
+venv
+app/out/*
+app/uuid.py
+app/__pycache__
+app/conf/__pycache__
